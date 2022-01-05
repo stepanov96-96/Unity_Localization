@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<key Name="Text1_key">
+		<Translates>
+			<en-us>Simple text</en-us>
+			<ru>Простой текст</ru>
+		</Translates>
+	</key>
+	<key Name="Text2_key">
+		<Translates>
+			<en-us>Updated text</en-us>
+			<ru>Обновленный текст</ru>
+		</Translates>
+	</key>
+	<key Name="Red_key">
+		<Translates>
+			<en-us>Red</en-us>
+			<ru>Красный</ru>
+		</Translates>
+	</key>
+	<key Name="Yellow_key">
+		<Translates>
+			<en-us>Yellow</en-us>
+			<ru>Желтый</ru>
+		</Translates>
+	</key>
+	<key Name="Blue_key">
+		<Translates>
+			<en-us>Blue</en-us>
+			<ru>Синий</ru>
+		</Translates>
+	</key>
+	<key Name="Green_key">
+		<Translates>
+			<en-us>Green</en-us>
+			<ru>Зеленый</ru>
+		</Translates>
+	</key>
+	<key Name="Black_key">
+		<Translates>
+			<en-us>Black</en-us>
+			<ru>Черный</ru>
+		</Translates>
+	</key>
+</Keys>
