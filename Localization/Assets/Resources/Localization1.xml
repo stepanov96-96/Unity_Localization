@@ -6,6 +6,12 @@
 			<ru>Простой текст</ru>
 		</Translates>
 	</key>
+	<key Name="Text3_key">
+		<Translates>
+			<en-us>Chto to tam</en-us>
+			<ru>что то там</ru>
+		</Translates>
+	</key>
 	<key Name="Text2_key">
 		<Translates>
 			<en-us>Updated text</en-us>
